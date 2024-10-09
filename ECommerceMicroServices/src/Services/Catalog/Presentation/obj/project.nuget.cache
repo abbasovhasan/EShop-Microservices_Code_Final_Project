@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0znHtdWOBo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Catalog\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abbas\\.nuget\\packages\\serilog\\4.1.0-dev-02238\\serilog.4.1.0-dev-02238.nupkg.sha512"
+  ],
+  "logs": []
+}
