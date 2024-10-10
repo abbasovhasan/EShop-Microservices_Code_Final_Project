@@ -2171,3 +2171,15 @@ FROM [Categories] AS [c]
 2024-10-10 01:19:07.603 +04:00 [INF] Executed action CatalogAPI.Controllers.CatalogController.GetAllCategories (CatalogAPI) in 3.9231ms
 2024-10-10 01:19:07.603 +04:00 [INF] Executed endpoint 'CatalogAPI.Controllers.CatalogController.GetAllCategories (CatalogAPI)'
 2024-10-10 01:19:07.603 +04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Catalog/categories - 200 null application/json; charset=utf-8 4.5608ms
+2024-10-10 02:36:36.573 +04:00 [INF] Now listening on: http://localhost:5000
+2024-10-10 02:36:36.622 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-10 02:36:36.622 +04:00 [INF] Hosting environment: Development
+2024-10-10 02:36:36.622 +04:00 [INF] Content root path: C:\Users\abbas\OneDrive\Documents\ECommerceMicroServices\ECommerceMicroServices\src\Services\Catalog\CatalogAPI
+2024-10-10 02:36:37.474 +04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2024-10-10 02:36:37.748 +04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 285.9438ms
+2024-10-10 02:36:37.810 +04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_vs/browserLink - null null
+2024-10-10 02:36:37.810 +04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-10 02:36:37.813 +04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 3.0055ms
+2024-10-10 02:36:37.894 +04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/_vs/browserLink - 200 null text/javascript; charset=UTF-8 83.7723ms
+2024-10-10 02:36:37.996 +04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2024-10-10 02:36:38.075 +04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 79.1925ms
