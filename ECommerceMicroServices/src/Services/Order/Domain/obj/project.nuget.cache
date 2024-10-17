@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cSex0Lw4oNg=",
+  "dgSpecHash": "Gn19SES71zc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abbas\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\abbas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

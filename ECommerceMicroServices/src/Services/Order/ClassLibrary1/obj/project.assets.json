@@ -655,11 +655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\Application.csproj",
+      "projectPath": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\Application.csproj",
       "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -677,8 +677,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\Domain\\Domain.csproj"
+            "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\Domain\\Domain.csproj"
             }
           }
         }

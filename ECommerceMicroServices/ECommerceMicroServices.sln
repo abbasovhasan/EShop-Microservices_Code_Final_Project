@@ -17,13 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\Services
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Order", "Order", "{733528E1-EDCE-4E35-84D8-5B0743012D48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\Services\Order\Domain\Domain.csproj", "{AA19ECC4-39E1-4D91-9967-C960541FBB00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\Services\Order\Domain\Domain.csproj", "{AA19ECC4-39E1-4D91-9967-C960541FBB00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Services\Order\ClassLibrary1\Application.csproj", "{162502BD-2690-4A6C-8A9C-60FDE1F46321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\Services\Order\ClassLibrary1\Application.csproj", "{162502BD-2690-4A6C-8A9C-60FDE1F46321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistance", "src\Services\Order\Persistance\Persistance.csproj", "{8DD6684A-C929-4DAF-8DC5-8B3B82F89626}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistance", "src\Services\Order\Persistance\Persistance.csproj", "{8DD6684A-C929-4DAF-8DC5-8B3B82F89626}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAPI", "src\Services\Order\OrderAPI\OrderAPI.csproj", "{18EBF1A2-0099-4CED-A9B6-40B6FEC80305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderAPI", "src\Services\Order\OrderAPI\OrderAPI.csproj", "{18EBF1A2-0099-4CED-A9B6-40B6FEC80305}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

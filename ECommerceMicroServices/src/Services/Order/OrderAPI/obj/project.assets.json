@@ -2208,11 +2208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
+      "projectUniqueName": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
       "projectName": "OrderAPI",
-      "projectPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
+      "projectPath": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\OrderAPI\\OrderAPI.csproj",
       "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\OrderAPI\\obj\\",
+      "outputPath": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\OrderAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2230,11 +2230,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Catalog\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Catalog\\Domain\\Domain.csproj"
+            "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Catalog\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Catalog\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\Application.csproj": {
-              "projectPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ECommerceMicroServices\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\Application.csproj"
+            "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\Application.csproj": {
+              "projectPath": "C:\\Users\\abbas\\EShop-Microservices_Code_Final_Project\\ECommerceMicroServices\\src\\Services\\Order\\ClassLibrary1\\Application.csproj"
             }
           }
         }
